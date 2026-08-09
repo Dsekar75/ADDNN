@@ -1,0 +1,92 @@
+15594.7s	403	--- FedProx Training --- 
+
+15594.7s	403	--- FedProx Training --- 
+16449.2s	404	Test Accuracy: 94.46% 
+16449.2s	405	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+16449.2s	406	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+16449.2s	407	FedProx Round 1/20 Loss: 0.3128, Acc: 94.46%, Comm: 10330, Time: 854.46s 
+
+17304.5s	408	Test Accuracy: 97.82% 
+17304.5s	409	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+17304.5s	410	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+17304.5s	411	FedProx Round 2/20 Loss: 0.1701, Acc: 97.82%, Comm: 10330, Time: 855.40s 
+
+18160.4s	412	Test Accuracy: 98.11% 
+18160.4s	413	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+18160.4s	414	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+18160.4s	415	FedProx Round 3/20 Loss: 0.1278, Acc: 98.11%, Comm: 10330, Time: 855.83s 
+
+19016.2s	416	Test Accuracy: 98.23% 
+19016.2s	417	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+19016.2s	418	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+19016.2s	419	FedProx Round 4/20 Loss: 0.1135, Acc: 98.23%, Comm: 10330, Time: 855.83s 
+
+19871.2s	420	Test Accuracy: 98.35% 
+19871.2s	421	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+19871.2s	422	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+19871.2s	423	FedProx Round 5/20 Loss: 0.1055, Acc: 98.35%, Comm: 10330, Time: 854.97s 
+
+20725.7s	424	Test Accuracy: 98.34% 
+20725.7s	425	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+20725.7s	426	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+20725.7s	427	FedProx Round 6/20 Loss: 0.1004, Acc: 98.34%, Comm: 10330, Time: 854.53s 
+
+21582.0s	428	Test Accuracy: 98.44% 
+21582.0s	429	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+21582.0s	430	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+21582.0s	431	FedProx Round 7/20 Loss: 0.0963, Acc: 98.44%, Comm: 10330, Time: 856.25s 
+22437.0s	432	Test Accuracy: 98.50% 
+22437.0s	433	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+22437.0s	434	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+22437.0s	435	FedProx Round 8/20 Loss: 0.0931, Acc: 98.50%, Comm: 10330, Time: 854.99s 
+23290.4s	436	Test Accuracy: 98.49% 
+23290.4s	437	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+23290.4s	438	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+23290.4s	439	FedProx Round 9/20 Loss: 0.0907, Acc: 98.49%, Comm: 10330, Time: 853.41s 
+
+24144.3s	440	Test Accuracy: 98.47% 
+24144.3s	441	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+24144.3s	442	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+24144.3s	443	FedProx Round 10/20 Loss: 0.0887, Acc: 98.47%, Comm: 10330, Time: 853.93s 
+24997.2s	444	Test Accuracy: 98.56% 
+24997.2s	445	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+24997.2s	446	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+24997.2s	447	FedProx Round 11/20 Loss: 0.0861, Acc: 98.56%, Comm: 10330, Time: 852.92s 
+25850.3s	448	Test Accuracy: 98.53% 
+25850.3s	449	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+25850.3s	450	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+25850.3s	451	FedProx Round 12/20 Loss: 0.0844, Acc: 98.53%, Comm: 10330, Time: 853.12s 
+26703.7s	452	Test Accuracy: 98.57% 
+26703.7s	453	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+26703.7s	454	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+26703.7s	455	FedProx Round 13/20 Loss: 0.0829, Acc: 98.57%, Comm: 10330, Time: 853.39s 
+
+27556.6s	216	Test Accuracy: 98.55% 
+27556.6s	217	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+27556.6s	218	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+27556.6s	219	FedProx Round 14/20 Loss: 0.0813, Acc: 98.55%, Comm: 10330, Time: 852.85s 
+28411.1s	220	Test Accuracy: 98.50% 
+28411.1s	221	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+28411.1s	222	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+28411.1s	223	FedProx Round 15/20 Loss: 0.0801, Acc: 98.50%, Comm: 10330, Time: 854.51s 
+29264.4s	224	Test Accuracy: 98.57% 
+29264.4s	225	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+29264.4s	226	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+29264.4s	227	FedProx Round 16/20 Loss: 0.0787, Acc: 98.57%, Comm: 10330, Time: 853.36s 
+30116.5s	228	Test Accuracy: 98.47% 
+30116.5s	229	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+30116.5s	230	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+30116.5s	231	FedProx Round 17/20 Loss: 0.0773, Acc: 98.47%, Comm: 10330, Time: 852.10s 
+30969.4s	232	Test Accuracy: 98.49% 
+30969.4s	233	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+30969.4s	234	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+30969.4s	235	FedProx Round 18/20 Loss: 0.0764, Acc: 98.49%, Comm: 10330, Time: 852.92s 
+31823.6s	236	Test Accuracy: 98.57% 
+31823.6s	237	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+31823.6s	238	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+31823.6s	239	FedProx Round 19/20 Loss: 0.0752, Acc: 98.57%, Comm: 10330, Time: 854.17s 
+32679.8s	240	Test Accuracy: 98.53% 
+32679.8s	241	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+32679.8s	242	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+32679.8s	243	FedProx Round 20/20 Loss: 0.0742, Acc: 98.53%, Comm: 10330, Time: 856.14s 
+32679.8s	244	
