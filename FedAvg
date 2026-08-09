@@ -1,0 +1,81 @@
+1037.3s	322	Test Accuracy: 14.32% 
+1037.3s	323	Sample Predictions: [1, 1, 1, 2, 7, 1, 1, 1, 1, 1] 
+1037.3s	324	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+1037.3s	325	FedAvg Round 1/20 Loss: 0.1465, Acc: 14.32%, Comm: 10330, Time: 765.17s 
+1804.1s	326	Test Accuracy: 98.48% 
+1804.1s	327	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+1804.1s	328	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+1804.1s	329	FedAvg Round 2/20 Loss: 0.0694, Acc: 98.48%, Comm: 10330, Time: 766.85s 
+2570.5s	330	Test Accuracy: 98.57% 
+2570.5s	331	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+2570.5s	332	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+2570.5s	333	FedAvg Round 3/20 Loss: 0.0545, Acc: 98.57%, Comm: 10330, Time: 766.37s 
+3335.7s	334	Test Accuracy: 98.56% 
+3335.7s	335	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+3335.7s	336	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+3335.7s	337	FedAvg Round 4/20 Loss: 0.0501, Acc: 98.56%, Comm: 10330, Time: 765.23s 
+4101.8s	338	Test Accuracy: 98.45% 
+4101.8s	339	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+4101.8s	340	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+4101.8s	341	FedAvg Round 5/20 Loss: 0.0480, Acc: 98.45%, Comm: 10330, Time: 766.04s 
+4867.8s	342	Test Accuracy: 98.42% 
+4867.8s	343	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+4867.8s	344	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+4867.8s	345	FedAvg Round 6/20 Loss: 0.0469, Acc: 98.42%, Comm: 10330, Time: 766.02s 
+5634.2s	346	Test Accuracy: 98.47% 
+5634.2s	347	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+5634.2s	348	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+5634.2s	349	FedAvg Round 7/20 Loss: 0.0462, Acc: 98.47%, Comm: 10330, Time: 766.38s 
+6401.6s	350	Test Accuracy: 98.41% 
+6401.6s	351	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+6401.6s	352	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+6401.6s	353	FedAvg Round 8/20 Loss: 0.0457, Acc: 98.41%, Comm: 10330, Time: 767.46s 
+7169.7s	354	Test Accuracy: 98.44% 
+7169.7s	355	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+7169.7s	356	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+7169.7s	357	FedAvg Round 9/20 Loss: 0.0451, Acc: 98.44%, Comm: 10330, Time: 768.09s 
+7935.0s	358	Test Accuracy: 98.48% 
+7935.0s	359	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+7935.0s	360	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+7935.0s	361	FedAvg Round 10/20 Loss: 0.0449, Acc: 98.48%, Comm: 10330, Time: 765.27s 
+8698.3s	362	Test Accuracy: 98.38% 
+8698.3s	363	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+8698.3s	364	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+8698.3s	365	FedAvg Round 11/20 Loss: 0.0446, Acc: 98.38%, Comm: 10330, Time: 763.32s 
+9465.4s	366	Test Accuracy: 98.49% 
+9465.4s	367	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+9465.4s	368	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+9465.4s	369	FedAvg Round 12/20 Loss: 0.0444, Acc: 98.49%, Comm: 10330, Time: 767.08s 
+10233.6s	370	Test Accuracy: 98.37% 
+10233.6s	371	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+10233.6s	372	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+10233.6s	373	FedAvg Round 13/20 Loss: 0.0442, Acc: 98.37%, Comm: 10330, Time: 768.25s 
+11001.3s	374	Test Accuracy: 98.45% 
+11001.3s	375	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+11001.3s	376	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+11001.3s	377	FedAvg Round 14/20 Loss: 0.0441, Acc: 98.45%, Comm: 10330, Time: 767.65s 
+11766.0s	378	Test Accuracy: 98.46% 
+11766.0s	379	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+11766.0s	380	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+11766.0s	381	FedAvg Round 15/20 Loss: 0.0444, Acc: 98.46%, Comm: 10330, Time: 764.73s 
+12531.2s	382	Test Accuracy: 98.39% 
+12531.2s	383	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+12531.2s	384	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+12531.2s	385	FedAvg Round 16/20 Loss: 0.0440, Acc: 98.39%, Comm: 10330, Time: 765.18s 
+13296.4s	386	Test Accuracy: 98.35% 
+13296.4s	387	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+13296.4s	388	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+13296.4s	389	FedAvg Round 17/20 Loss: 0.0440, Acc: 98.35%, Comm: 10330, Time: 765.26s 
+14062.4s	390	Test Accuracy: 98.24% 
+14062.4s	391	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+14062.4s	392	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+14062.4s	393	FedAvg Round 18/20 Loss: 0.0440, Acc: 98.24%, Comm: 10330, Time: 765.93s 
+14828.0s	394	Test Accuracy: 98.35% 
+14828.0s	395	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+14828.0s	396	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+14828.0s	397	FedAvg Round 19/20 Loss: 0.0439, Acc: 98.35%, Comm: 10330, Time: 765.64s 
+15594.7s	398	Test Accuracy: 98.35% 
+15594.7s	399	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+15594.7s	400	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+15594.7s	401	FedAvg Round 20/20 Loss: 0.0439, Acc: 98.35%, Comm: 10330, Time: 766.69s 
+15594.7s	402	
