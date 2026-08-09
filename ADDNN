@@ -1,0 +1,55 @@
+32679.8s	245	--- ADDNN Training --- 
+33444.9s	246	Test Accuracy: 91.10% 
+33444.9s	247	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+33444.9s	248	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+33444.9s	249	ADDNN Round 1/20 Loss: 0.0731, Acc: 91.10%, Comm: 10330, Time: 765.10s 
+34210.4s	250	Test Accuracy: 98.67% 
+34210.4s	251	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+34210.4s	252	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+34210.4s	253	ADDNN Round 2/20 Loss: 0.0490, Acc: 98.67%, Comm: 10330, Time: 765.51s 
+
+
+34977.2s	254	Test Accuracy: 98.71% 
+34977.2s	255	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+34977.2s	256	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+34977.2s	257	ADDNN Round 3/20 Loss: 0.0400, Acc: 98.71%, Comm: 10330, Time: 766.86s 
+35738.8s	258	Test Accuracy: 98.79% 
+35738.8s	259	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+35738.8s	260	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+35738.8s	261	ADDNN Round 4/20 Loss: 0.0359, Acc: 98.79%, Comm: 10330, Time: 761.58s 
+
+36503.1s	524	Test Accuracy: 98.74% 
+36503.1s	525	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+36503.1s	526	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+36503.1s	527	ADDNN Round 5/20 Loss: 0.0343, Acc: 98.74%, Comm: 10330, Time: 764.32s 
+
+37264.8s	1068	Test Accuracy: 98.63% 
+37264.8s	1069	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+37264.8s	1070	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+37264.8s	1071	ADDNN Round 6/20 Loss: 0.0337, Acc: 98.63%, Comm: 10330, Time: 761.64s 
+
+38027.0s	1072	Test Accuracy: 98.70% 
+38027.0s	1073	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+38027.0s	1074	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+38027.0s	1075	ADDNN Round 7/20 Loss: 0.0341, Acc: 98.70%, Comm: 10330, Time: 762.19s 
+
+38791.9s	2026	Test Accuracy: 98.66% 
+38791.9s	2027	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+38791.9s	2028	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+38791.9s	2029	ADDNN Round 8/20 Loss: 0.0345, Acc: 98.66%, Comm: 10330, Time: 764.95s 
+39553.9s	2030	Test Accuracy: 98.65% 
+39553.9s	2031	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+39553.9s	2032	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+39553.9s	2033	ADDNN Round 9/20 Loss: 0.0351, Acc: 98.65%, Comm: 10330, Time: 762.04s 
+40316.1s	2034	Test Accuracy: 98.64% 
+40316.1s	2035	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+40316.1s	2036	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+40316.1s	2037	ADDNN Round 10/20 Loss: 0.0361, Acc: 98.64%, Comm: 10330, Time: 762.13s 
+41078.5s	2038	Test Accuracy: 98.66% 
+41078.5s	2039	Sample Predictions: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+41078.5s	2040	True Labels: [7, 2, 1, 0, 4, 1, 4, 9, 5, 9] 
+41078.5s	2041	ADDNN Round 11/20 Loss: 0.0368, Acc: 98.66%, Comm: 10330, Time: 762.45s 
+
+
+
+
