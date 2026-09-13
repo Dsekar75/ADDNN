@@ -1,1 +1,7 @@
 
+Method	Average Round Time (s)	Energy Consumption  
+( relative)	Inference Latency (per device)
+FedAvg	~870 s	Baseline (100%)	-
+FedProx	~855 s	~98% of FedAvg	
+	-
+ADDNN	~764 s	~71.6% of FedAvg (28.4% reduction)	22.8ms lower
