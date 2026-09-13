@@ -5,3 +5,13 @@ FedAvg	~870 s	Baseline (100%)	-
 FedProx	~855 s	~98% of FedAvg	
 	-
 ADDNN	~764 s	~71.6% of FedAvg (28.4% reduction)	22.8ms lower
+
+
+
+
+Method-Variant	Accuracy (%)	Communication cost	Time (s)
+Full ADDNN	98.74	10,330	764.32
+Without  NAS	97.85	10,330	760.00
+
+Without Hierarchical Aggregation	97.20	16,260	770.00
+Without Energy-Aware  Opt.	98.10	10,330	780.00
